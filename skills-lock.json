@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "awwwards-animations": {
+      "source": "devmartinese/awwwards-animations-skill",
+      "sourceType": "github",
+      "computedHash": "10574282bd24f42072059efa58cfce6ff3a80347505eb191af55544426fe4c3a"
+    },
+    "hover-interactions": {
+      "source": "dylantarre/animation-principles",
+      "sourceType": "github",
+      "computedHash": "a8f7f1b5d48dce5de96b8dda19e1c2cde134552856c3eb3ac8f1eb3a9e69f26f"
+    },
+    "micro-interactions": {
+      "source": "dylantarre/animation-principles",
+      "sourceType": "github",
+      "computedHash": "3329f824de3660f2aef6ea2974f7410fab5865ce0250fa2191a87370c616c093"
+    }
+  }
+}
